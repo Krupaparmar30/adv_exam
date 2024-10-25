@@ -1,5 +1,17 @@
 # adv_exam
 
+Sample UI Components
+Add Book Form:
+
+Create a form to input book details and call the insert function.
+Book List:
+
+Display the list of books with options to delete each book.
+Additional Features
+User Authentication: Allow users to register and log in to manage their own book lists.
+Search Functionality: Implement search filters for finding books quickly.
+Edit Book Details: Add functionality to update book information.
+
 A new Flutter project.
 
  <img src="https://github.com/user-attachments/assets/eea112ae-556b-4841-a573-2ecb2e0cdb8e" height=28% width=32%>
