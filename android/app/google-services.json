@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011819283860",
+    "project_id": "advexam-65856",
+    "storage_bucket": "advexam-65856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011819283860:android:900af19093d3c7aef27b81",
+        "android_client_info": {
+          "package_name": "com.example.adv_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3KlZRlSp9J744al2VQ8HYoSUjahDyX3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
